@@ -5,23 +5,23 @@ export const trabajos = [
         'url': 'https://alexcamarillo.github.io/GifFinder/',
         'tecnologias': 'HTML, CSS, JS, REACT',
         'caregorias': 'Web Development',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'Project built with React, a simple page that consumes an API to get Gifs'
     },
     {
         'id': 'todolist',
         'nombre': 'To Do List',
-        'url': 'https://www.todolist.com',
+        'url': '#',
         'tecnologias': 'NodeJS, Express, JS',
         'caregorias': 'Back-End',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'to do list, you create tasks, mark them as pending or completed, you have the list of both and you can delete any task'
     },
     {
         'id': 'pelis',
         'nombre': 'Pelis TV',
-        'url': 'https://www.pelis.com',
+        'url': 'https://alexcamarillo.github.io/react-pelis/',
         'tecnologias': 'React, HTML, CSS, JS, Bootstrap',
         'caregorias': 'Web Development',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'Application created with react to add movies, edit or delete them, it also has its search engine'
     },
     {
         'id': 'giffinder2',
@@ -29,23 +29,23 @@ export const trabajos = [
         'url': 'https://www.giffinder.com',
         'tecnologias': 'HTML, CSS, JS, REACT',
         'caregorias': 'Web Development',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'Project built with React, a simple page that consumes an API to get Gifs'
     },
     {
         'id': 'todolist2',
         'nombre': 'To Do List',
-        'url': 'https://www.todolist.com',
+        'url': '#',
         'tecnologias': 'NodeJS, Express, JS',
         'caregorias': 'Web Development',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'to do list, you create tasks, mark them as pending or completed, you have the list of both and you can delete any task'
     },
     {
         'id': 'pelis2',
         'nombre': 'Pelis TV',
-        'url': 'https://www.pelis.com',
+        'url': 'https://alexcamarillo.github.io/react-pelis/',
         'tecnologias': 'React, HTML, CSS, JS, Bootstrap',
         'caregorias': 'Web Development',
-        'descripcion': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, iste. Quisquam mollitia sunt perferendis obcaecati, recusandae nobis fugit similique, magnam, voluptas autem excepturi. Temporibus minus maxime, minima expedita incidunt illum!'
+        'descripcion': 'Application created with react to add movies, edit or delete them, it also has its search engine'
     },
    
 
