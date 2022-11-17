@@ -2,12 +2,12 @@
 export const Curriculum = () => {
   return (
     <div className="page">
-      <h1 className="heading">CURRÍCULUM</h1>
+      <h1 className="heading">Curriculum Vitae</h1>
 
-      <h2>Experience</h2>
+      <h2>Experience:</h2>
       <h4>Solgeek - Web Development: front-end</h4>
       <h4>Teleperformance - USA Call Center</h4>
-      <h2>Conocimientos: </h2>
+      <h2>Knowledge: </h2>
       <ul>
         <li>
           <h4>HTML</h4>
@@ -49,7 +49,7 @@ export const Curriculum = () => {
           <h4>Flutter</h4>
         </li>
       </ul>
-      <h2>Education</h2>
+      <h2>Education:</h2>
       <ul>
         <li>
           <h4>CBTis #168 - Programming Technician</h4>
